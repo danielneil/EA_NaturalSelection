@@ -1,3 +1,4 @@
+# 
 # Daniel Neil Hodder
 #
 # Randomly generate the initial population of individuals, the first generation.
@@ -9,4 +10,5 @@
 # Select individuals preferably of lower fitness for replacement with new individuals (mimicking natural selection).
 # Return to 2
 #
-# Source: https://en.wikipedia.org/wiki/Evolutionary_algorithm
+# https://en.wikipedia.org/wiki/Evolutionary_algorithm
+# https://en.wikipedia.org/wiki/Evolutionary_programming
