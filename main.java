@@ -1,8 +1,6 @@
 # A computational method inspired by the process of natural selection, 
 # where certain prey species with a particular color are favored by a predator, is being simulated.
 #
-# Author: Daniel Neil Hodder
-#
 # Randomly generate the initial population of individuals, the first generation.
 # Evaluate the fitness of each individual in the population.
 # Check, if the goal is reached and the algorithm can be terminated.
