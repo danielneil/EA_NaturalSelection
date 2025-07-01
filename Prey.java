@@ -1,0 +1,6 @@
+class Prey
+{
+  public Prey()
+  {
+  }
+}
