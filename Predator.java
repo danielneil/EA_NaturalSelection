@@ -1,0 +1,6 @@
+class Predator
+{
+  public Predator()
+  {
+  }
+}
